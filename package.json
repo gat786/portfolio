@@ -39,6 +39,7 @@
 	"dependencies": {
 		"@tailwindcss/typography": "^0.5.10",
 		"glob": "^10.3.4",
-		"material-icons": "^1.13.11"
+		"material-icons": "^1.13.11",
+		"swiper": "^10.2.0"
 	}
 }

@@ -1,3 +1,15 @@
+<script lang="ts">
+	const image_urls = [
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963381/personal-photos/uthcylgsgtsxp1ytc8hi.jpg",
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963272/personal-photos/v3nyo7i3u6jubbjibrdw.webp",
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963269/personal-photos/grf4sr7mdphz8zk53ifc.webp",
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963097/personal-photos/m5jssnvkpykfcgmnd0xj.jpg",
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963078/personal-photos/tjgeq3qybb05u30dndsr.webp",
+		"https://res.cloudinary.com/dw9dzd7yh/image/upload/v1694963078/personal-photos/s39up6guntwtdgb0capj.webp"
+	]
+
+</script>
+
 <head>
 	<title>Portfolio</title>
 </head>
@@ -22,6 +34,15 @@
 			</p>
 		</div>
 		<h1 class="text-4xl font-bold">Ganesh Tiwari</h1>
+
+		<swiper-container class="h-96">
+			{#each image_urls as image_url}
+				<swiper-slide>
+					<img src={image_url} alt="First Image">
+				</swiper-slide>
+			{/each}
+		</swiper-container>
+
 
 		<div class="flex flex-col gap-2 my-4 font-light">
 			I am a
