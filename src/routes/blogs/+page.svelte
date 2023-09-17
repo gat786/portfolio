@@ -9,10 +9,10 @@
 <article class="prose">
   <h1>Here will be my list of all the blogs that I will possibly write</h1>
   <ul>
-    {#each data.file_names as blog}
+    <!-- {#each data.file_names as blog}
       <li>
         <a href={`blogs/${blog}`}>{blog}</a>
       </li>
-    {/each}
+    {/each} -->
   </ul>
 </article>
