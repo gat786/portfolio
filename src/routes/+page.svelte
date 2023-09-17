@@ -14,10 +14,7 @@
 	<title>Portfolio</title>
 </head>
 <div>
-	<div class="p-2 flex justify-end gap-3 w-full my-4">
-		<button class="border px-2">Light</button>
-		<button class="border px-2 bg-gray-700 text-white">Dark</button>
-	</div>
+
 	<div class="m-2 my-8">
 		<div class="my-4">
 			<p class="font-thin">
@@ -30,10 +27,11 @@
 						<span class="material-icons-outlined text-gray-700">mail</span><br />
 					</a>
 				</span>
-				<span> I am </span>
 			</p>
+			<div class="font-light text-2xl mt-4">I am</div>
 		</div>
 		<h1 class="text-4xl font-bold">Ganesh Tiwari</h1>
+		<div class="my-4"> This is me 👇 </div>
 
 		<swiper-container class="h-96">
 			{#each image_urls as image_url}
@@ -47,25 +45,26 @@
 		<div class="flex flex-col gap-2 my-4 font-light">
 			I am a
 			<ul style="list-style-type:disc;" class="ml-4">
+				<li>very passionate Software Engineer</li>
 				<li>
-					I am a DevOps Engineer at <a class="underline text-blue-400" href="https://nethermind.io"
+					DevOps Engineer at <a class="underline text-blue-400" href="https://nethermind.io"
 						>Nethermind</a
 					>
 				</li>
-				<li>And a very passionate Software Engineer</li>
-				<li>A very friendly person</li>
+				<li>very friendly person (🔫 you have to agree with this)</li>
+				<li>Fun person to talk to <strong>(I would like to think so atleast)</strong></li>
 			</ul>
 		</div>
 
 		<div class="flex flex-col gap-2 my-4 font-light">
 			I normally do
 			<ul style="list-style-type:disc;" class="ml-4">
-				<li>Write a lot of code (mostly that people dont understand)</li>
-				<li>Try to make funny memes (again that people dont understand)</li>
+				<li>Write a lot of code <i>(mostly that people dont understand)</i></li>
+				<li>Try to make funny memes <i>(again that people dont understand)</i></li>
 				<li>
-					Do a lot of GYM (this is because I failed to make people understand my code and memes)
+					Do a lot of GYM <i>(this is because I failed to make people understand my code and memes)</i>
 				</li>
-				<li>Love to learn musical things (I am learning keyboard right now 🙏 for me)</li>
+				<li>Love to learn musical things <i>(I am learning keyboard 🎹 right now, 🙏 for me)</i></li>
 				<li>I love to learn new things & solve problems</li>
 				<li>Reading History and Geography books</li>
 			</ul>

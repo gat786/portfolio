@@ -7,7 +7,7 @@
   <title>This is blogs page</title>
 </head>
 <article class="prose">
-  <h1>Here will be my list of all the blogs that I will possibly write</h1>
+  <h2>Blogs List :-</h2>
   <ul>
     {#each data.file_names as blog}
       <li>

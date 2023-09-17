@@ -9,7 +9,32 @@
 </script>
 
 <div class="flex flex-col items-center">
-  <div class="w-3/4 max-w-2xl">
+  <div class="w-5/6 lg:w-3/4 max-w-2xl">
+    <div>
+      <div class="p-2 flex justify-between items-center gap-3 w-full my-4">
+        <h1 class="text-5xl font-bold">Gats.dev</h1>
+        <div>
+          <button class="border px-2">Light</button>
+          <button class="border px-2 bg-gray-700 text-white">Dark</button>
+        </div>
+      </div>
+      <nav class="m-2">
+        <ul class="flex flex-wrap gap-4">
+          <li class="border px-2">
+            <a href="/">Home</a>
+          </li>
+          <li class="border px-2">
+            <a href="/about">About</a>
+          </li>
+          <li class="border px-2">
+            <a href="/blogs">Blogs</a>
+          </li>
+          <li class="border px-2">
+            <a href="/send-ping">Reach out to me</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
     <slot />
   </div>
 </div>
