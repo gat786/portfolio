@@ -10,8 +10,15 @@ type BlogFiles = {
 }
 
 export const load: PageServerLoad<BlogFiles> = async({params}) => {
-  const blogs = await glob(['static/**/*.md']);
+  let static_blogs_prefix = 'static/blog_content/';
+  
+  let blogs = await glob([`${static_blogs_prefix}/**/*.md`]);
+
+  const blogs_remapped = blogs.map((blog) => {
+    blog = blog.replace(static_blogs_prefix, '');
+    return blog;
+  });
   return {
-    file_names : blogs
+    file_names : blogs_remapped
   }
 }

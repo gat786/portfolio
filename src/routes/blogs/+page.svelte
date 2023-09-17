@@ -11,7 +11,7 @@
   <ul>
     {#each data.file_names as blog}
       <li>
-        <a href={blog}>{blog}</a>
+        <a href={`blogs/${blog}`}>{blog}</a>
       </li>
     {/each}
   </ul>
