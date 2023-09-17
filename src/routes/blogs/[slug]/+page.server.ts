@@ -1,9 +1,9 @@
-// import { glob } from 'glob';
+import { glob } from 'glob';
 
 export async function load({params}) : Promise<Object> {
   console.log(params);
-  // const images = await glob(['static/**/*.md'], )
-  // console.log(images);
+  const images = await glob(['static/**/*.md'], )
+  console.log(images);
   return {
     'content': 'hello',
     'title': 'title',
