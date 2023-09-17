@@ -38,7 +38,7 @@
 		<swiper-container class="h-96">
 			{#each image_urls as image_url}
 				<swiper-slide>
-					<img src={image_url} alt="First Image">
+					<img src={image_url} class="" alt="First Image">
 				</swiper-slide>
 			{/each}
 		</swiper-container>
