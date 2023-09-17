@@ -36,4 +36,3 @@ print(we)
 This is how image would be displayed 👇
  
 ![](https://res.cloudinary.com/dw9dzd7yh/image/upload/f_auto,q_auto/cld-sample-5)
-

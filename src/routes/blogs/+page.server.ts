@@ -16,6 +16,7 @@ export const load: PageServerLoad<BlogFiles> = async({params}) => {
 
   const blogs_remapped = blogs.map((blog) => {
     blog = blog.replace(static_blogs_prefix, '');
+    blog = blog.replace('.md', '');
     return blog;
   });
   return {
