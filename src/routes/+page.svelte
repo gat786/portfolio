@@ -1,13 +1,5 @@
 <script lang="ts">
-	const image_urls = [
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963381/personal-photos/uthcylgsgtsxp1ytc8hi.jpg",
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963272/personal-photos/v3nyo7i3u6jubbjibrdw.webp",
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963269/personal-photos/grf4sr7mdphz8zk53ifc.webp",
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963097/personal-photos/m5jssnvkpykfcgmnd0xj.jpg",
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963078/personal-photos/tjgeq3qybb05u30dndsr.webp",
-		"https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963078/personal-photos/s39up6guntwtdgb0capj.webp"
-	]
-
+	import { image_urls } from "$lib/constants";
 </script>
 
 <head>
@@ -36,7 +28,7 @@
 		<swiper-container class="h-96">
 			{#each image_urls as image_url}
 				<swiper-slide>
-					<img src={image_url} class="" alt="First Image">
+					<img src={image_url.url} class="h-96" alt={image_url.alt}>
 				</swiper-slide>
 			{/each}
 		</swiper-container>
