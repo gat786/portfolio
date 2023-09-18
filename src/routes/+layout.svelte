@@ -40,7 +40,7 @@
   <div class="w-5/6 lg:w-3/4 max-w-2xl">
     <div>
       <div class="p-2 flex justify-between items-center gap-3 w-full my-4">
-        <h1 class="text-5xl font-bold">Gats.dev</h1>
+        <a class="text-5xl font-bold" href="/">Gats.dev</a>
         <div>
           <button class="border px-2" on:click={setLightMode}>Light</button>
           <button class="border px-2 bg-gray-700 text-white" on:click={setDarkMode}>Dark</button>

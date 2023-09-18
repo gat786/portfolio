@@ -3,7 +3,7 @@
 </script>
 
 <head>
-	<title>Portfolio</title>
+	<title>Ganesh Tiwari's Portfolio</title>
 </head>
 <div>
 
