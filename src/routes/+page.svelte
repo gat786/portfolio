@@ -13,10 +13,10 @@
 				<span>
 					Hello!<br />
 				</span>
-				<span class="flex items-center gap-2" title="Send me a message about how you feel">
+				<span class="flex gap-2" title="Send me a message about how you feel">
 					How are you doing?
 					<a href="mailto:me@gats.dev">
-						<span class="material-icons-outlined text-gray-700">mail</span><br />
+						<span class="material-icons-outlined dark:text-white text-gray-700">mail</span><br />
 					</a>
 				</span>
 			</p>

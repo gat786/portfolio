@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import '../app.css';
 
   import 'material-icons/iconfont/material-icons.css';
@@ -29,11 +29,14 @@
   const setDarkMode = () => {
     console.log('changing theme to: dark')
     document.documentElement.classList.add('dark')
+    let items = document.getElementsByTagName('body')
+    let body = items[0]
+    body.classList.add('dark:bg-gray-800') 
     localStorage.setItem('theme', 'dark')
   }
 </script>
 
-<div class="flex flex-col items-center dark:bg-gray-600 dark:text-white">
+<div class="flex flex-col items-center dark:bg-gray-800 dark:text-white">
   <div class="w-5/6 lg:w-3/4 max-w-2xl">
     <div>
       <div class="p-2 flex justify-between items-center gap-3 w-full my-4">
