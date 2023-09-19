@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { image_urls } from "$lib/constants";
+	import { personal_image_urls, cloudinary_prefix } from "$lib/constants";
 </script>
 
 <head>
@@ -25,10 +25,11 @@
 		<h1 class="text-4xl font-bold">Ganesh Tiwari</h1>
 		<div class="my-4"> This is me 👇 </div>
 
-		<swiper-container class="h-96">
-			{#each image_urls as image_url}
+		<swiper-container class="h-96" loop="true">
+			{#each personal_image_urls as image_url}
 				<swiper-slide>
-					<img src={image_url.url} class="h-96" alt={image_url.alt}>
+					<img src={cloudinary_prefix + image_url.url} class="h-80" alt={image_url.alt}>
+					<i class="font-thin my-8">{image_url.alt}</i>
 				</swiper-slide>
 			{/each}
 		</swiper-container>
