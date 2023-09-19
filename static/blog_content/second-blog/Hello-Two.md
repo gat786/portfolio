@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Second Blogs title
 created_on: 2023-09-18 00:00:42
 description: This is my second blog post
 tags: ['blog', 'second']
