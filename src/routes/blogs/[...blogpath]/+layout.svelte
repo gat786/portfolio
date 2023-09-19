@@ -1,4 +1,4 @@
-<div>
-  I am blogs layout
+<div class="my-8">
+  I am blogs layoutz
   <slot />
 </div>

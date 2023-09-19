@@ -1,8 +1,9 @@
 ---
 title: Hello World
-date: 2023-09-18 00:00:42
+created_on: 2023-09-18 00:00:42
 description: This is my second blog post
 tags: ['blog', 'second']
+authors: ['ganesht049@gmail.com']
 ---
 
 # Hi I am the second blog

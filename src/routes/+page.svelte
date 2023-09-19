@@ -9,7 +9,7 @@
 
 	<div class="my-8">
 		<div class="my-4">
-			<p class="font-thin">
+			<div class="font-thin">
 				<span>
 					Hello!<br />
 				</span>
@@ -19,7 +19,7 @@
 						<span class="material-icons-outlined dark:text-white text-gray-700">mail</span><br />
 					</a>
 				</span>
-			</p>
+			</div>
 			<div class="font-light text-2xl mt-4">I am</div>
 		</div>
 		<h1 class="text-4xl font-bold">Ganesh Tiwari</h1>

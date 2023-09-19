@@ -16,6 +16,11 @@ export type FrontMatter = {
   authors: Author[];
 }
 
+export type Blog = {
+  front_matter: FrontMatter;
+  content: string;
+}
+
 export type BlogFiles = {
   file_names: string[];
 }

@@ -1,8 +1,9 @@
 ---
 title: Hello World
-date: 2023-09-18 00:00:26
+created_on: 2023-09-18 00:00:26
 description: This is my first blog post
 tags: ['blog', 'first']
+authors: ['ganesht049@gmail.com']
 ---
 
 I am using Obsidian to create this blog and also using sveltekit to render it to my website blog.
