@@ -17,6 +17,8 @@
 </head>
 <div>
   <article id="blog-content" class="prose dark:prose-invert">
-
+  </article>
+  <article class="hidden">
+    {data.content}
   </article>
 </div>
