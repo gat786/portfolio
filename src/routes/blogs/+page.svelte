@@ -1,6 +1,8 @@
 <script lang="ts">
   import type { PageData } from './$types';
   export let data: PageData;
+
+  const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
 </script>
 
 <head>
@@ -8,11 +10,13 @@
 </head>
 <article class="my-8">
   <h2 class="text-2xl mb-4">Blogs List :-</h2>
-  <ul>
-    {#each data.file_names as blog}
+  <ol type="1">
+    {#each data.blogs as blog}
       <li>
-        <a href={`blogs/${blog}`}>{blog}</a>
+        <a href={`blogs/${blog.front_matter.url_postfix}`}>
+          {blog.front_matter.title} - { blog.front_matter.created_on.toLocaleDateString()}
+        </a>
       </li>
     {/each}
-  </ul>
+  </ol>
 </article>

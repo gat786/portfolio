@@ -18,7 +18,15 @@ export const load = ({ params }) => {
 
   const parsed_html = marked.parse(file_matter.content);
   let blog: Blog = {
-    front_matter: { title, description, created_on, tags, authors, file_path: blog_file_path },
+    front_matter: { 
+      title, 
+      description, 
+      created_on,
+      tags,
+      authors, 
+      file_path: blog_file_path,
+      url_postfix: path
+    },
     content: parsed_html
   }
 
