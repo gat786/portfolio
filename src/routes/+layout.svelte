@@ -39,14 +39,14 @@
 <div class="flex flex-col items-center dark:bg-gray-800 dark:text-white">
   <div class="w-5/6 lg:w-3/4 max-w-2xl">
     <div>
-      <div class="p-2 flex justify-between items-center gap-3 w-full my-4">
+      <div class="flex justify-between items-center gap-3 w-full my-8">
         <a class="text-5xl font-bold" href="/">Gats.dev</a>
         <div>
           <button class="border px-2" on:click={setLightMode}>Light</button>
           <button class="border px-2 bg-gray-700 text-white" on:click={setDarkMode}>Dark</button>
         </div>
       </div>
-      <nav class="m-2">
+      <nav class="my-2">
         <ul class="flex flex-wrap gap-4">
           <li class="border px-2">
             <a href="/">Home</a>

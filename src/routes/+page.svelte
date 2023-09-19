@@ -7,7 +7,7 @@
 </head>
 <div>
 
-	<div class="m-2 my-8">
+	<div class="my-8">
 		<div class="my-4">
 			<p class="font-thin">
 				<span>
