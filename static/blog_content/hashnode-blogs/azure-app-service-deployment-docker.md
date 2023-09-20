@@ -1,6 +1,6 @@
 ---
 title: Deploying any Web Service on Azure App Service (We will use docker) 
-created_on: 2023-02-08
+created_on: 2021-02-08
 description: In this blog I explain how to deploy any web service on Azure App Service using docker containers.
 tags: ['App Service', 'Azure', 'Docker']
 authors: ['ganesht049@gmail.com']

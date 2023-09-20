@@ -35,7 +35,11 @@ export const load: PageServerLoad<BlogList> = async({params}) => {
     return blog_object;
   });
 
+  const sorted_blogs = blogs_remapped.sort((a, b) => {
+    return new Date(b.front_matter.created_on).getTime() - new Date(a.front_matter.created_on).getTime();
+  });
+
   return {
-    blogs: blogs_remapped
+    blogs: sorted_blogs
   };
 }
