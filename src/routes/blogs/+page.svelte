@@ -12,9 +12,15 @@
   <h2 class="text-2xl mb-4">Blogs List :-</h2>
   <ol type="1">
     {#each data.blogs as blog}
-      <li>
+      <li class="py-8 border-b border-slate-300">
         <a href={`blogs/${blog.front_matter.url_postfix}`}>
-          {blog.front_matter.title} - { blog.front_matter.created_on.toLocaleDateString()}
+          <h2 class="text-2xl font-bold mb-4">
+            {blog.front_matter.title} <br />
+          </h2>
+          <p class="font-thin text-sm">
+            Created on - { blog.front_matter.created_on.toLocaleDateString()} <br />
+            Author('s) - {blog.front_matter.authors.join(', ')}
+          </p>
         </a>
       </li>
     {/each}
