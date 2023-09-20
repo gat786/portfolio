@@ -6,7 +6,7 @@
 </script>
 
 <head>
-  <title>This is blogs page</title>
+  <title>Blogs written by Ganesh</title>
 </head>
 <article class="my-8">
   <h2 class="text-2xl font-thin">Blogs List :-</h2>

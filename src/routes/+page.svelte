@@ -44,7 +44,7 @@
 						>Nethermind</a
 					>
 				</li>
-				<li>very friendly person (🔫 you have to agree with this)</li>
+				<li>very friendly person <i>(🔫 you have to agree with this)</i></li>
 				<li>Fun person to talk to <strong>(I would like to think so atleast)</strong></li>
 			</ul>
 		</div>
@@ -55,7 +55,7 @@
 				<li>Write a lot of code <i>(mostly that people dont understand)</i></li>
 				<li>Try to make funny memes <i>(again that people dont understand)</i></li>
 				<li>
-					Do a lot of GYM <i>(this is because I failed to make people understand my code and memes)</i>
+					Healthy amount of GYM <i>(this is because I failed to make people understand my code and memes)</i>
 				</li>
 				<li>Love to learn musical things <i>(I am learning keyboard 🎹 right now, 🙏 for me)</i></li>
 				<li>I love to learn new things & solve problems</li>
