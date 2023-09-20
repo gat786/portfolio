@@ -9,7 +9,7 @@
   <title>This is blogs page</title>
 </head>
 <article class="my-8">
-  <h2 class="text-2xl mb-4">Blogs List :-</h2>
+  <h2 class="text-2xl font-thin">Blogs List :-</h2>
   <ol type="1">
     {#each data.blogs as blog}
       <li class="py-8 border-b border-slate-300">

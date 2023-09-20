@@ -34,7 +34,7 @@ The only thing that you need to see is whether your source and destination block
 
 This is how the architecture of a message being transferred using CCIP looks like
 
-![Architecture diagram of how CCIP works according to me](https://cdn.hashnode.com/res/hashnode/image/upload/v1693416065129/9cf36b62-ebba-43d1-873f-39cf1001d153.png align="center")
+![Architecture diagram of how CCIP works according to me](https://cdn.hashnode.com/res/hashnode/image/upload/v1693416065129/9cf36b62-ebba-43d1-873f-39cf1001d153.png)
 
 This is the simplest representation that I could come up with at the point of writing this blog on how I think the CCIP protocol works, It's much more complicated than this, but overall it should be somewhat like this.
 
@@ -137,7 +137,7 @@ npx hardhat run scripts/deploy-sender.ts --network sender
 
 and it will deploy the sender contract displaying a message like this
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693507807084/06b35a59-0a8c-4f5a-9b38-f579d982725d.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693507807084/06b35a59-0a8c-4f5a-9b38-f579d982725d.png)
 
 ##### Deploying Receiver
 
@@ -147,7 +147,7 @@ npx hardhat run scripts/deploy-receiver.ts --network receiver
 
 and it will deploy the receiver contract displaying a message like this
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693507855945/2dbe9245-9947-479a-bb2d-e007c9e76ca3.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693507855945/2dbe9245-9947-479a-bb2d-e007c9e76ca3.png)
 
 Once you have both sender and receiver contracts deployed you can add their addresses in the .env file and carry on with the next steps.
 
@@ -155,7 +155,7 @@ Once you have both sender and receiver contracts deployed you can add their addr
 
 Let's start with sending our first message. While I already have a message written in the `scripts/send-message.ts` file you can edit it and change it to something else if you want to.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693508171090/c590bc03-99ea-4d90-9a4e-d563029f2928.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693508171090/c590bc03-99ea-4d90-9a4e-d563029f2928.png)
 
 Once you have a message that you want to send you can run the following command to initiate a message send.
 
@@ -165,7 +165,7 @@ npx hardhat run scripts/send-message.ts --network sender
 
 You will receive an output that includes the transaction hash which you can use to view its status on the CCIP Explorer and once it is completed we can move ahead and read the message from the receiver smart contract.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693508785766/69aee414-1e1a-49e3-a4bc-54ce3beafa3f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693508785766/69aee414-1e1a-49e3-a4bc-54ce3beafa3f.png)
 
 ##### Tracking a message status
 
@@ -183,7 +183,7 @@ npx hardhat run scripts/receive-message.ts --network receiver
 
 The output for it should look something like this
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693509095373/883d5535-45d3-4538-9e30-4fcd41186696.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693509095373/883d5535-45d3-4538-9e30-4fcd41186696.png)
 
 #### Conclusions
 
