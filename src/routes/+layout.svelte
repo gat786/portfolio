@@ -39,7 +39,7 @@
 <div class="flex flex-col items-center dark:bg-gray-800 dark:text-white">
   <div class="w-5/6 lg:w-3/4 max-w-2xl">
     <div>
-      <div class="flex justify-between items-center gap-3 w-full my-8">
+      <div class="flex flex-wrap justify-between items-center gap-3 w-full my-8">
         <a class="text-5xl font-bold" href="/">Gats.dev</a>
         <div>
           <button class="border px-2" on:click={setLightMode}>Light</button>
@@ -56,6 +56,12 @@
           </li>
           <li class="border px-2">
             <a href="/blogs">Blogs</a>
+          </li>
+          <li class="border px-2">
+            <a href="/videos">Videos</a>
+          </li>
+          <li class="border px-2">
+            <a href="/events">Events</a>
           </li>
           <li class="border px-2">
             <a href="/send-ping">Reach out to me</a>

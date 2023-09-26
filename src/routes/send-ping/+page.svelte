@@ -2,7 +2,9 @@
 	<title> Contact Ganesh Somehow </title>
 </head>
 <div class="my-8">
-	<h2>I will add something here so that you can send some message to me directly</h2>
+	<h2>Fill this form and send to send a message to me</h2>
+  <i>I might or might not read it.</i>
+
 
 	<form action="" class="flex flex-col gap-4 my-8">
 		<label for="name"> Name </label>
