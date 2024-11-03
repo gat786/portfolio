@@ -6,7 +6,6 @@
 	<title>Ganesh Tiwari's Portfolio</title>
 </head>
 <div>
-
 	<div class="my-8">
 		<div class="my-4">
 			<div class="font-thin">
