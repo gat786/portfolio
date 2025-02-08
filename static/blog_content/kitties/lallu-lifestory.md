@@ -1,22 +1,101 @@
 ---
 title: Lallu's Lifestory
+tags: [blog, cat story, lallu]
+
+---
+
+---
+title: Lallu's Lifestory
 created_on: 2025-02-05 00:28:42
 description: This is my personal blog post where I will try to write my kitty lallu's lifestory through how I have observed it to be.
 tags: ['blog', 'cat story', 'lallu']
 authors: ['ganesht049@gmail.com']
 ---
 
-My Friend Lallu - I will miss you a lot
+## My Friend Lallu - I will miss you a lot
 
 The last photo I ever clicked of lallu
 
+
+
+
 ---
 
-This is a story of how I went on from being a no pet guy to a person who had more photos of my kitties in my gallery than myself.
+This is a story of how I went on from being a no pet guy to a person who had
+more photos of my kitties in my gallery than myself.
 
 ---
 
-It was never planned in my life that I would meet you, I didn't like the idea of pets, in my head, I knew that people had them because it would make it such that they have a friend who is near and dear to them very close-by. It would also mean that you have someone who loves you unconditionally always be besides you. For me, it was always a burden. That you would always have to take care of someone, always make sure that this person is fed, always make sure to clean your house extra because this extra someone you have is going to make it dirty.
+It was never planned in my life that I would meet you, I didn't like the idea
+of pets, in my head, I knew that people had them because it would make it such
+that they have a friend who is near and dear to them very close-by. It would
+also mean that you have someone who loves you unconditionally always be besides
+you. For me, it was always a burden. That you would always have to take care
+of someone, always make sure that this person is fed, always make sure to clean your house extra because this extra someone you have is going to make it dirty.
+I also had this feeling that it would make me more emotional and susceptible to feelings that I have never felt before. I have always been a very work oriented person. Wake up, do something that you are supposed to do, eat and then sleep and rest well so that you are able to repeat it till you achieve something you have wanted to achieve. I am not saying that I was raised as a robot but in my early years I never had a lot of things that would evolve or make me think about things emotionally. It was always very simple & unemotional for me to do things. I always thought about things like - to do this, you do this. To achieve this, you have to take a finite number of steps.
+Now this is not a rant about my emotional being, but I want to say that yes, it will enlighten your feelings a bit if you have a pet and would make you feel things that you might not have ever thought about.
+How he came into my life
+Sticking to the topic again, Lallu. You came into my life when I knowingly or unknowingly went through a series of fortunate events. 1 fine day in 2024 I found a little stray kitten roaming in my gallery/balcony (this is not you) (I have a gallery/balcony which is bigger than my house during this time). This little kitten was very weak and I found it so cute. This was in March 2024.
+During this time I had very recently made a friend who was also into kittens. No I had made multiple friends who were so much into kittens. After looking at this small ball of fur, I was beginning to think maybe I should also take care of this guy and become a cat guy myself. And I did so, I started taking care of this guy. I bought some cat food, I cleaned this guy up, and I had a plastic bucket type thingy in which I put in some old clothes and made a small sleeping place for this guy. 
+first little guyHe was very cute. He lived at our home for about a week or two but not for long. 1 fine day we woke up and found the guy nowhere. He was not sleeping in the sleeping bucket I made for him. He used to sleep there usually, I didn't know what happened to him, I searched for him every where but we found him nowhere. God knows what happened to him. 
+But during this period, His mama used to frequently visit the little kitten that was staying in my home, I used to feed them both, when the kitten was gone missing my parents as well as the people who were living nearby were saying that the mama took him somewhere so that he would not stick to one home, they believed that kitten mamas take their kitties to 7 different homes before settling anywhere. I knew this was all garbage but that is what everyone kept saying to me. I knew that mama kitty was also searching for him with us when he was lost and she was also worried about where he might have gone. 
+After our baby junior was gone I had the mama visiting me every day, she would come everyday and I would feed her a little bit. I would feed her food and she would leave feeling full and I would feel good about it, this continued for some time. Until 1 fine day I started noticing some bump in this mamas belly. I was curious as well as happy I asked my mom whether she thinks that our kitty mama was pregnant or not and she had similar feelings.
+mama cats look at that point of time (end of april 2024)We were very sure that this was the case because the bump kept increasing day by day and the mama kept visiting our house more and more and she would often keep searching for nice and cosy places inside our home. 
+Anyways fast forward mid of May, I went for my trip to Japan that I was planning for a while and was excited to visit. I was also worried about how it might happen because the last time I went abroad it was not a very straightforward visit and I had to jump a few hoops to get back home, anyways, while I was away I knew that the bump was still increasing and I might see some kitties pop up when I get back. But to my surprise the mama was more ready than my thinking. In my 4th day of Japan visit i.e. 19th of May 2024 I was gifted with 5 small cutie pie kitties. I was still away but my Mom used to call me via Whatsapp and I used to see the kitties placed in a cardboard box that she assembled somehow. 
+Mama cat right before I was supposed to leave for JapanLallus first home (this is the day after they were born)Mama cat gave 5 little gifts to my family and I was away still. I return back on May 31st and till then, mama cat has found a home inside my home where we don't even go, nor see. My home has a attic over my the toilet as well as the bathroom, the space over bathroom has water tank and the space over toilet is free, i.e. we planned to put something there but never did. We unorderedly arranged some utensils and buckets inside it and things that we were sure no one would use were thrown inside it to never be seen again. Mama cat found this space. Hid her kids there and used to come out of there eat something and go inside again. My mom had seen the kids only a few times after they were born and she took them there after which she did not see them.
+Anyways as soon as I was back I wanted to see the kitties but I could not as they were stored at the top of my house where I never took a look previously nor they were convienient for me to look at. This kept happening for a couple of days I would say a week and I didn't get to see the kitties. 
+Fast forward a few days, I was desperate and wanted to see the kitties so I climbed two stools and found myself looking into the attic and seeing my kitties for the first time. I saw one of the kitties run inside a corner but I wasn't worried because I thought they are staying here and they would be aware of the surroundings more than me. Turns out they weren't right next day I saw the mama cat take down all the kitties and move them below my work table. Strange I thought, I started counting and I noticed that there was 1 kitty missing. We started searching for it, we removed each and every thing that the attic had. We used torches, made a small kid climb into that attic and search the corners where we couldn't reach and still didn't find that small guy. 
+Tensions grew and with that the mama cat grew more and more nervous, she would climb the attic every few minutes and keep searching for that missing baby never to find it. Then I remembered what happened the day before and in my head thought, what if the baby which is missing is the same baby that ran after he saw me. And it clicked. I saw the baby run behind the water tank that we have above our bathroom and it is such a remote place that no one could reach it without us emptying the entire tank. I decided to do it and immediately called a plumber that can help us do it. 
+We did and it and there was the missing kitty. We lost 1 of the kitties after he ran away from me unknowingly.
+We still had 4 of them but looking at the batch you would easily see that 1 of them had infected eyes and he could not open them properly even when he wanted to open them. Because of this he was also less nourished and weaker than each one of them. I tried taking him to a vet that was nearby and trying to find some cure for him but I was unsuccessful in doing so and he would succumb to that infection.
+
+a video that showcases all the 4 kitties in their very early age, you can see the 4th one beneath the kitty that is at the top in the very first frame.By this time I had gotten a cage for them to live inside because I knew that these small kitties cannot be left outside as they would simple get crushed beneath someones foot and we would lose them. But still I had to keep the gates of this cage open because the mama cat did not stick in this cage forever and would scream in the middle of the night if forcefully kept closed. 
+During one of the nights she left outside and along with her one of the kitties, she was the most strong one. She I think tried to match steps with her mom and failed to do so at some point and she fell, she fell straight down from our window to the bottom and was dead on reaching the bottom and there we lost our third kitty. 
+We still had 2 very cool little kitties and I slowly and slowly fell in love with them. One of which was lallu, very cool. He would sleep all day, eat only wet food and that too very selectively. Only fresh out of the packet things, no second times.
+About Lallu
+my gang :)He would sit in sun during the day and near my bed during the night. He was not a roamer rather he was an enjoyer. I would find him gazing on things on end during the days as well as nights. He would just sit there and not do anything until he was hungry or needed to do his daily routine. He would never overeat or do anything that would cause him hurt or any troubles. He liked to climb on top of things for some reasons I would find him on random locations at the top of things not doing anything just idly gazing at things and sitting.
+I have many memories of him and they have left a mark on me.
+He was always so calm, never screamed at me when he was hungry, like her sister, he would just calmly keep on requesting when he was hungry, not that I would keep him hungry for long periods of time but I knew this because he was a picky eater and there were times that I fed him and he would not eat it. He would just want me to serve something outfresh when there is something already in his bowl which was poured some 15 mins ago. 
+When he was tired of meowing at me, he would climb up on me and sit with me until I gave him food. He would do nothing but just sit on my lap until I was done and then he got his food. He did the same with my mother. He would go and stand there looking at her with those cute little eyes that he got and stare at her looking for his food and meow ever so cutely. He would never sit alone when inside home, he liked spending time with people, if me or my mom was sitting at a place he would find us sit right next to us and in a way that would make sure that we are unable to move unless we move him completely. :) 
+
+my guy getting his head patted and in his food request mode.Heres him sitting on my lap hoping for me to understand his word of him being hungry
+Lallu on my lapAnd the best thing that I would always remember about him is that he slept with his little tongue out. I have a very cute photo of him doing this which I even converted into a slack emoji and it is a part of our company slack account now for atleast until they remove it.
+Heres that photo
+:lallu:Another photo capturing that iconic sleepOut of the two that we had left this guy was the weaker one. You would see the difference visually like kallu would look twice as big as lallu to you if you had seen them in their early stages of life. Lallu would also catch illness very quickly like once he was barely a couple of months old he caught fever and cold. He would frequently get in violent contacts with other cats in the neighborhood.
+Lallu's life
+Lallu & Kallu were the two kitties that were left from the lot of 5 from when they were born till after a month of moving here and there and different unfortunate accidents or unintentional infections. Initially when I had seen the cats in my limited knowledge I tried to check their genders and I didn't know what would be like the actual difference between the two or maybe their organs weren't developed as of that time, and I was under the impression that all of the kitties were females and in the early days of lallu I thought he was a lady kitty as well. 
+When he was smaller and used to play with kallu we could tell that something was different about him but couldn't pin point it out. He was more of a laidback guy and didn't like a lot of playing around. It was not that he would not play at all but rather that he would get tired very easily, he would get bored very easily. He would also not come very close to us (i.e. me or my mom). Kallu on the other hand was so cool, she would play so much roll on the ground, she would jump around, play with whatever she would find. Lallu on the other hand would like to stargaze and relax.
+Also when they were very little lallu would often get threats from a neighbourhood male cat. He was big and strong and looked dangerous, lallu was on the other was more like a small rat and still the big guy would come in unusual times when lallu would be alone and would try to scare him as well as try to initiate fight with him. We had a cage for lallu and kallu both and when they were small we use to keep them caged in during the night so that they dont escape or fall into some stupid place and die, but as they grew they began to become impatient during the nights and would often scream at the top of their lungs inorder for us to let them out. At that I remember it used to be so painful but now I don't even remember those days, tells you a lot about how much as a person we remember. 
+It was one such night where I did place them inside their cage, gave them their night dinner and then went to sleep, but the night didn't end there, these guys got out of the cage and started playing around. They might have had a few games of rugby done and then suddenly out of nowhere came a defender from another state, i.e. the big neighbouring male cat that I had previously mentioned about. There broke a scary fight between these three and mind you kallu and lallu were barely 3 months old at that time and weren't very strong or anything. Kallu was trying to scare this big guy away by hiding behind a stool and hissing at him while lallu was so scared that he went underneath a table and started crying. I was able to hear these things going on in my balcony and did wake up after hearing it. I opened my window and quickly made the big guy take a run for his life. As soon as the big guy was gone, I quickly tried to find lallu and he was so tiny and squeezed himself so much that he would be smaller than a closed fist of mine. 
+He was sitting there and he shat himself 🤣 🤣 🤣
+He did no attach no defense. He just sat in the corner, shat himself and started crying outloud. 🤣---
+title: Lallu's Lifestory
+created_on: 2025-02-05 00:28:42
+description: This is my personal blog post where I will try to write my kitty lallu's lifestory through how I have observed it to be.
+tags: ['blog', 'cat story', 'lallu']
+authors: ['ganesht049@gmail.com']
+---
+
+## My Friend Lallu - I will miss you a lot
+
+The last photo I ever clicked of lallu
+
+
+
+
+---
+
+This is a story of how I went on from being a no pet guy to a person who had
+more photos of my kitties in my gallery than myself.
+
+---
+
+It was never planned in my life that I would meet you, I didn't like the idea
+of pets, in my head, I knew that people had them because it would make it such
+that they have a friend who is near and dear to them very close-by. It would
+also mean that you have someone who loves you unconditionally always be besides
+you. For me, it was always a burden. That you would always have to take care
+of someone, always make sure that this person is fed, always make sure to clean your house extra because this extra someone you have is going to make it dirty.
 I also had this feeling that it would make me more emotional and susceptible to feelings that I have never felt before. I have always been a very work oriented person. Wake up, do something that you are supposed to do, eat and then sleep and rest well so that you are able to repeat it till you achieve something you have wanted to achieve. I am not saying that I was raised as a robot but in my early years I never had a lot of things that would evolve or make me think about things emotionally. It was always very simple & unemotional for me to do things. I always thought about things like - to do this, you do this. To achieve this, you have to take a finite number of steps.
 Now this is not a rant about my emotional being, but I want to say that yes, it will enlighten your feelings a bit if you have a pet and would make you feel things that you might not have ever thought about.
 How he came into my life
