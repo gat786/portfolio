@@ -8,7 +8,7 @@ authors: ['ganesht049@gmail.com']
 
 ## My Friend Lallu - I will miss you a lot
 
-_[photo: The last photo I ever clicked of lallu]_
+> 🖼️ **[Missing image here]** — _The last photo I ever clicked of lallu_
 
 ---
 
@@ -34,7 +34,7 @@ Sticking to the topic again, Lallu. You came into my life when I knowingly or un
 
 During this time I had very recently made a friend who was also into kittens. No I had made multiple friends who were so much into kittens. After looking at this small ball of fur, I was beginning to think maybe I should also take care of this guy and become a cat guy myself. And I did so, I started taking care of this guy. I bought some cat food, I cleaned this guy up, and I had a plastic bucket type thingy in which I put in some old clothes and made a small sleeping place for this guy.
 
-_[photo: first little guy]_
+> 🖼️ **[Missing image here]** — _first little guy_
 
 He was very cute. He lived at our home for about a week or two but not for long. 1 fine day we woke up and found the guy nowhere. He was not sleeping in the sleeping bucket I made for him. He used to sleep there usually, I didn't know what happened to him, I searched for him every where but we found him nowhere. God knows what happened to him.
 
@@ -42,15 +42,15 @@ But during this period, His mama used to frequently visit the little kitten that
 
 After our baby junior was gone I had the mama visiting me every day, she would come everyday and I would feed her a little bit. I would feed her food and she would leave feeling full and I would feel good about it, this continued for some time. Until 1 fine day I started noticing some bump in this mamas belly. I was curious as well as happy I asked my mom whether she thinks that our kitty mama was pregnant or not and she had similar feelings.
 
-_[photo: mama cats look at that point of time (end of april 2024)]_
+> 🖼️ **[Missing image here]** — _mama cats look at that point of time (end of april 2024)_
 
 We were very sure that this was the case because the bump kept increasing day by day and the mama kept visiting our house more and more and she would often keep searching for nice and cosy places inside our home.
 
 Anyways fast forward mid of May, I went for my trip to Japan that I was planning for a while and was excited to visit. I was also worried about how it might happen because the last time I went abroad it was not a very straightforward visit and I had to jump a few hoops to get back home, anyways, while I was away I knew that the bump was still increasing and I might see some kitties pop up when I get back. But to my surprise the mama was more ready than my thinking. In my 4th day of Japan visit i.e. 19th of May 2024 I was gifted with 5 small cutie pie kitties. I was still away but my Mom used to call me via Whatsapp and I used to see the kitties placed in a cardboard box that she assembled somehow.
 
-_[photo: Mama cat right before I was supposed to leave for Japan]_
+> 🖼️ **[Missing image here]** — _Mama cat right before I was supposed to leave for Japan_
 
-_[photo: Lallus first home (this is the day after they were born)]_
+> 🖼️ **[Missing image here]** — _Lallus first home (this is the day after they were born)_
 
 Mama cat gave 5 little gifts to my family and I was away still. I return back on May 31st and till then, mama cat has found a home inside my home where we don't even go, nor see. My home has a attic over my the toilet as well as the bathroom, the space over bathroom has water tank and the space over toilet is free, i.e. we planned to put something there but never did. We unorderedly arranged some utensils and buckets inside it and things that we were sure no one would use were thrown inside it to never be seen again. Mama cat found this space. Hid her kids there and used to come out of there eat something and go inside again. My mom had seen the kids only a few times after they were born and she took them there after which she did not see them.
 
@@ -64,7 +64,7 @@ We did and it and there was the missing kitty. We lost 1 of the kitties after he
 
 We still had 4 of them but looking at the batch you would easily see that 1 of them had infected eyes and he could not open them properly even when he wanted to open them. Because of this he was also less nourished and weaker than each one of them. I tried taking him to a vet that was nearby and trying to find some cure for him but I was unsuccessful in doing so and he would succumb to that infection.
 
-_[video: a video that showcases all the 4 kitties in their very early age, you can see the 4th one beneath the kitty that is at the top in the very first frame.]_
+> 🖼️ **[Missing video here]** — _a video that showcases all the 4 kitties in their very early age, you can see the 4th one beneath the kitty that is at the top in the very first frame._
 
 By this time I had gotten a cage for them to live inside because I knew that these small kitties cannot be left outside as they would simple get crushed beneath someones foot and we would lose them. But still I had to keep the gates of this cage open because the mama cat did not stick in this cage forever and would scream in the middle of the night if forcefully kept closed.
 
@@ -74,7 +74,7 @@ We still had 2 very cool little kitties and I slowly and slowly fell in love wit
 
 ## About Lallu
 
-_[photo: my gang :)]_
+> 🖼️ **[Missing image here]** — _my gang :)_
 
 He would sit in sun during the day and near my bed during the night. He was not a roamer rather he was an enjoyer. I would find him gazing on things on end during the days as well as nights. He would just sit there and not do anything until he was hungry or needed to do his daily routine. He would never overeat or do anything that would cause him hurt or any troubles. He liked to climb on top of things for some reasons I would find him on random locations at the top of things not doing anything just idly gazing at things and sitting.
 
@@ -84,19 +84,19 @@ He was always so calm, never screamed at me when he was hungry, like her sister,
 
 When he was tired of meowing at me, he would climb up on me and sit with me until I gave him food. He would do nothing but just sit on my lap until I was done and then he got his food. He did the same with my mother. He would go and stand there looking at her with those cute little eyes that he got and stare at her looking for his food and meow ever so cutely. He would never sit alone when inside home, he liked spending time with people, if me or my mom was sitting at a place he would find us sit right next to us and in a way that would make sure that we are unable to move unless we move him completely. :)
 
-_[photo: my guy getting his head patted and in his food request mode.]_
+> 🖼️ **[Missing image here]** — _my guy getting his head patted and in his food request mode._
 
-_[photo: Heres him sitting on my lap hoping for me to understand his word of him being hungry]_
+> 🖼️ **[Missing image here]** — _Heres him sitting on my lap hoping for me to understand his word of him being hungry_
 
-_[photo: Lallu on my lap]_
+> 🖼️ **[Missing image here]** — _Lallu on my lap_
 
 And the best thing that I would always remember about him is that he slept with his little tongue out. I have a very cute photo of him doing this which I even converted into a slack emoji and it is a part of our company slack account now for atleast until they remove it.
 
 Heres that photo
 
-_[photo: :lallu:]_
+> 🖼️ **[Missing image here]** — _:lallu:_
 
-_[photo: Another photo capturing that iconic sleep]_
+> 🖼️ **[Missing image here]** — _Another photo capturing that iconic sleep_
 
 Out of the two that we had left this guy was the weaker one. You would see the difference visually like kallu would look twice as big as lallu to you if you had seen them in their early stages of life. Lallu would also catch illness very quickly like once he was barely a couple of months old he caught fever and cold. He would frequently get in violent contacts with other cats in the neighborhood.
 
