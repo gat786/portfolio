@@ -1,3 +1,24 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+
+@plugin '@tailwindcss/typography';
+
+/* Tailwind 4: class-based dark mode (was `darkMode: 'class'` in tailwind.config.js) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+	html {
+		scroll-behavior: smooth;
+	}
+
+	body {
+		@apply bg-white text-gray-900 antialiased transition-colors duration-300;
+	}
+
+	.dark body {
+		@apply bg-gray-800 text-white;
+	}
+
+	::selection {
+		@apply bg-amber-200 text-gray-900;
+	}
+}

@@ -1,11 +1,5 @@
 ---
 title: Lallu's Lifestory
-tags: [blog, cat story, lallu]
-
----
-
----
-title: Lallu's Lifestory
 created_on: 2025-02-05 00:28:42
 description: This is my personal blog post where I will try to write my kitty lallu's lifestory through how I have observed it to be.
 tags: ['blog', 'cat story', 'lallu']
