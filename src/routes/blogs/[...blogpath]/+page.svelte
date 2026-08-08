@@ -1,32 +1,24 @@
 <script lang="ts">
-  import type { PageData } from './$types';
-  export let data: PageData;
-  import { onMount } from 'svelte';
+	import type { PageData } from './$types';
 
-  onMount(() => {
-    const blogContent = document.getElementById('blog-content');
-    if (blogContent != null) {
-      blogContent.innerHTML = data.content;
-    }
-  });
-
+	let { data }: { data: PageData } = $props();
 </script>
 
-<head>
-  <title>{data.front_matter.title}</title>
-</head>
+<svelte:head>
+	<title>{data.front_matter.title}</title>
+</svelte:head>
+
 <div>
-  <div class="font-thin my-4">
-    <div>
-      Created on - {data.front_matter.created_on.toLocaleDateString()}
-    </div>
-    <div>
-      Author('s) - {data.front_matter.authors.join(', ')}
-    </div>
-  </div>
-  <article id="blog-content" class="prose dark:prose-invert">
-  </article>
-  <article class="hidden">
-    {data.content}
-  </article>
+	<div class="my-4 border-b border-slate-200 pb-4 font-thin dark:border-gray-700">
+		<div>
+			Created on - {data.front_matter.created_on.toLocaleDateString()}
+		</div>
+		<div>
+			Author('s) - {data.front_matter.authors.join(', ')}
+		</div>
+	</div>
+	<article class="prose dark:prose-invert">
+		<!-- eslint-disable-next-line svelte/no-at-html-tags -- own markdown, rendered at build time -->
+		{@html data.content}
+	</article>
 </div>
