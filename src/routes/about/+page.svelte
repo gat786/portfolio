@@ -1,3 +1,15 @@
+<script lang="ts">
+  const birthDate = new Date("1998-11-30");
+  const now = new Date();
+  let age = now.getFullYear() - birthDate.getFullYear();
+  if (
+    now.getMonth() < birthDate.getMonth() ||
+    (now.getMonth() === birthDate.getMonth() && now.getDate() < birthDate.getDate())
+  ) {
+    age--;
+  }
+</script>
+
 <svelte:head>
 	<title>About Ganesh Tiwari</title>
 </svelte:head>
@@ -13,12 +25,14 @@
 
 				<li>
 					<h1>Age -</h1>
-					<h2>25</h2>
+					<h2>{age}</h2>
 				</li>
 
 				<li>
 					<h1>Education -</h1>
-					<h2>M.Sc in Computer Science from the University of Mumbai</h2>
+					<h2>B.Sc in Computer Science</h2>
+					<h2>M.Sc in Computer Science specialising in Cloud Computing</h2>
+					<p class="text-xs mt-2">both from <a href="https://rdnational.ac.in" target="_blank" rel="noopener noreferrer">R.D. National College</a>, Bandra West, Mumbai, University of Mumbai</p>
 				</li>
 
 				<li>
@@ -26,8 +40,9 @@
 					<h2>
 						Software Engineer, Working as a Professional DevOps Engineer at
 						<a
-							class="text-blue-500 underline decoration-blue-300 underline-offset-2 transition-colors hover:text-blue-600 dark:text-blue-400"
-							href="https://www.nethermind.io/">Nethermind</a
+							href="https://www.nethermind.io/"
+							target="_blank"
+							rel="noopener noreferrer">Nethermind</a
 						>
 					</h2>
 				</li>

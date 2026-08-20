@@ -1,6 +1,7 @@
 import type { Image } from '$lib/models/image';
 
 export const static_blogs_prefix = 'static/blog_content/';
+export const static_events_prefix = 'static/event_content/';
 
 export const cloudinary_prefix =
 	'https://res.cloudinary.com/dw9dzd7yh/image/upload/q_auto/v1694963381/personal-photos/';

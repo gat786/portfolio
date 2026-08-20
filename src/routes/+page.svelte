@@ -1,5 +1,11 @@
 <script lang="ts">
 	import { personal_image_urls, cloudinary_prefix } from '$lib/constants';
+	import ImageCarousel from '$lib/components/ImageCarousel.svelte';
+
+	const carousel_images = personal_image_urls.map((img) => ({
+		url: cloudinary_prefix + img.url,
+		alt: img.alt
+	}));
 </script>
 
 <svelte:head>
@@ -29,27 +35,18 @@
 		<h1 class="text-4xl font-bold tracking-tight">Ganesh Tiwari</h1>
 		<div class="my-4">This is me 👇</div>
 
-		<swiper-container class="h-96" loop="true">
-			{#each personal_image_urls as image_url (image_url.url)}
-				<swiper-slide>
-					<img
-						src={cloudinary_prefix + image_url.url}
-						class="h-80 rounded-xl shadow-md"
-						alt={image_url.alt}
-					/>
-					<i class="my-8 text-sm font-thin text-gray-600 dark:text-gray-300">{image_url.alt}</i>
-				</swiper-slide>
-			{/each}
-		</swiper-container>
+		<ImageCarousel images={carousel_images} />
 
 		<div class="my-4 flex flex-col gap-2 font-light">
 			I am a
 			<ul class="ml-4 list-disc marker:text-gray-400">
 				<li>very passionate Software Engineer</li>
 				<li>
-					DevOps Engineer at <a
+					Previously a DevOps Engineer at <a
 						class="text-blue-500 underline decoration-blue-300 underline-offset-2 transition-colors hover:text-blue-600 dark:text-blue-400"
-						href="https://nethermind.io">Nethermind</a
+						href="https://nethermind.io"
+						target="_blank"
+						rel="noopener noreferrer">Nethermind</a
 					>
 				</li>
 				<li>very friendly person <i>(🔫 you have to agree with this)</i></li>
