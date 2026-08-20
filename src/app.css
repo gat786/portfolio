@@ -22,3 +22,50 @@
 		@apply bg-amber-200 text-gray-900;
 	}
 }
+
+a {
+	@apply underline decoration-blue-500/60 underline-offset-2 transition-colors duration-200;
+}
+
+a:hover {
+	@apply text-blue-600 decoration-blue-600;
+}
+
+.dark a {
+	@apply decoration-blue-400/60;
+}
+
+.dark a:hover {
+	@apply text-blue-400 decoration-blue-400;
+}
+
+a::after {
+	content: ' ↗';
+	font-size: 0.7em;
+	vertical-align: super;
+	opacity: 0.5;
+	transition: opacity 0.2s;
+}
+
+a:hover::after {
+	opacity: 1;
+}
+
+a:focus-visible {
+	@apply outline-2 outline-offset-2 outline-blue-500;
+}
+
+a:active {
+	@apply text-blue-700;
+}
+
+.dark a:active {
+	@apply text-blue-300;
+}
+
+swiper-slide {
+	display: flex !important;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}

@@ -1,0 +1,21 @@
+# Reference: all possible fields for an event entry.
+# Place this file in static/event_content/<event-name>/event.yaml
+
+title: Event Title
+date: 2024-01-15
+collaborators:
+  - Person One
+  - Person Two
+companies:
+  - name: Company Name
+    url: https://company.com
+  - name: Another Company
+  - name: Company Without Link
+gist: >
+  A brief description of what happened at the event, who showed up,
+  what was discussed, and any highlights or memorable moments.
+images:
+  - url: /event_content/your-event-name/photo1.jpg
+    alt: Caption for photo 1
+  - url: /event_content/your-event-name/photo2.jpg
+    alt: Caption for photo 2

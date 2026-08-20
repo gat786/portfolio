@@ -14,7 +14,7 @@
 		<a
 			href="https://devops-stuff.dev"
 			target="_blank"
-			rel="noopener"
+			rel="noopener noreferrer"
 			class="font-medium text-blue-500 underline decoration-blue-300 underline-offset-2 transition-colors hover:text-blue-600 dark:text-blue-400"
 			>DevOps Blogs</a
 		>
