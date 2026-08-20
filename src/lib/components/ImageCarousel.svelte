@@ -27,7 +27,7 @@
 				<img
 					src={image.url}
 					alt={image.alt}
-					class="h-72 w-full rounded-xl object-cover shadow-md"
+					class="mx-auto h-72 rounded-xl object-contain shadow-md"
 				/>
 				<p class="mt-2 text-center text-xs font-thin text-gray-500 dark:text-gray-400">
 					{image.alt}
